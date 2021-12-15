@@ -2,7 +2,12 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "shared/_fonts.scss",
+        "shared/_variables.scss",
+        "shared/_mixings.scss",
+        "pages/_index.scss",
+        "common/_buttons.scss"
     ],
     "names": [],
     "file": "style.css"
